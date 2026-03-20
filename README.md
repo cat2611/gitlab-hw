@@ -83,11 +83,11 @@ build:
 ![Скриншот-3](https://github.com/cat2611/gitlab-hw/blob/main/img/all_job_complete.png)
 
 Работа test
-![Скриншот-3](https://github.com/cat2611/gitlab-hw/blob/main/img/test_complete.png)
+![Скриншот-4](https://github.com/cat2611/gitlab-hw/blob/main/img/test_complete.png)
 Работа build
-![Скриншот-3](https://github.com/cat2611/gitlab-hw/blob/main/img/build_complete.png)
+![Скриншот-5](https://github.com/cat2611/gitlab-hw/blob/main/img/build_complete.png)
 Работа static-analysis
-![Скриншот-3](https://github.com/cat2611/gitlab-hw/blob/main/img/stat_analis_complete.png)
+![Скриншот-6](https://github.com/cat2611/gitlab-hw/blob/main/img/stat_analis_complete.png)
 
 
 
